@@ -1,7 +1,7 @@
 /**
- * Esc-cape
+ * First Contact (previously named Esc-cape)
  *
- * A platformer game by Faisal with Aaron and Eric
+ * A platformer game by Faisal with Aaron and Eric (and especially my teacher Greg)
  *
  */
 
